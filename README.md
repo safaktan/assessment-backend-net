@@ -79,10 +79,15 @@ Veri yapısı olarak da:
 
 Çalışma tamamlandığında bu codebase'i kişisel git repository'sine aktarmanız, çalışma bitiminde de bu repository adresiyle paylaşmanız beklenecektir.
 
-
 ## Sorularınız
 
 Değerlendirmelerle ilgili sorularınızı [github@setur.com.tr](mailto:github@setur.com.tr) adresine iletebilirsiniz.
+
+Merhabalar 
+Repomu sizin reponuz ile nasıl paylaşacağımı çözemedim. Daha fazlada gecikmek istemedim 1 saatten fazladır buna uğraşıyorum bende böyle bir yöntem buldum.
+Github RepoLink: https://github.com/safaktan/ContactApp
+Git Clone Link: https://github.com/safaktan/ContactApp.git
+
 
 
 ### Lisans
